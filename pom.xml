@@ -6,7 +6,7 @@
 
     <groupId>fr.maxlego08.playeractions</groupId>
     <artifactId>PlayerActions</artifactId>
-    <version>1.0.0</version>
+    <version>1.2</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
